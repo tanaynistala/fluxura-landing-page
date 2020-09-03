@@ -5,30 +5,25 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Here's the changelog for Fluxura. Just so you know.
 
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+## **Version 1.3**
+This update cleaned up a few features of the app.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- The app now respects your selected tint in more places.
+- Links to external sites now look nicer.
+- Added an option to automatically open the keyboard when a field is selected.
+- Added a link to the web version of Fluxura's privacy policy.
+- Wording for various settings options have been changed to be clearer.
+- You can now preview Fluxura Pro features like Presets and customization options.
+- You can now submit bug reports in the app, which automatically populates email content with device information. As always, your privacy comes first, and you can choose what information you'd like to send with your report.
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Fixed a bug that caused invalid time parameters to crash the app.
 
 <br>
 
@@ -37,29 +32,51 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+The first version we launched!
 
 <br>
 
 ## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+A zero-day update, this fixed a few bugs.
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### Bug Fixes
+- Fixed a bug that caused the app to crash when certain presets were loaded.
+- Fixed an issue that caused presets to be available without a Fluxura Pro purchase. 
+
+(If you were using the app before this update and want to unlock presets, drop us an email!)
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## **Version 1.2**
+This update fixed a few bugs that were reported by some of our first users.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Invalid time spans and intervals are now intelligently identified.
+- Answers are now formatted in scientific notation if they are too large or too small. Precision settings are still respected.
+- Added a link to the Tip Jar in the Fluxura Pro preview page.
+- [Changes to Privacy Policy](/privacypolicy)
 
 #### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- Fixed a bug that caused the app to crash when time parameters were set too high.
+- Fixed a bug that prevented the light/dark mode toggle in the App Icons menu from updating.
+- Fixed an issue that prevented invalid cells from being highlighted.
+- Fixed an issue that prevented the invalid input alert from displaying when dividing by zero or taking the square root of a negative number.
+
+<br>
+
+## **Version 1.3**
+This update cleaned up a few features of the app.
+
+#### What's New
+- The app now respects your selected tint in more places.
+- Links to external sites now look nicer.
+- Added an option to automatically open the keyboard when a field is selected.
+- Added a link to the web version of Fluxura's privacy policy.
+- Wording for various settings options have been changed to be clearer.
+- You can now preview Fluxura Pro features like Presets and customization options.
+- You can now submit bug reports in the app, which automatically populates email content with device information. As always, your privacy comes first, and you can choose what information you'd like to send with your report.
+
+#### Bug Fixes
+- Fixed a bug that caused invalid time parameters to crash the app.
 
 <br>
