@@ -17,4 +17,4 @@ The app does not collect or store any user data or information, and all processi
 
 <br>
 
-That's it! If you have any questions, please do not hesitate to contact me at [nistalatanay(at)gmail(dot)com](mailto:nistalatanay@gmail.com)
+That's it! If you have any questions, please do not hesitate to contact me at [nistalatanay@gmail.com](mailto:nistalatanay@gmail.com)
