@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : cog
 
   - title                                 : Presets
-    description                           : We've put in some of the most commonly-used differential equatiosn in Physics, Chemistry, Biology, and Economics, so you don't have to.
+    description                           : We've put in some of the most commonly-used differential equations, so you don't have to.
     fontawesome_icon_name                 : layer-group
 
   - title                                 : Expressions
