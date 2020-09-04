@@ -54,7 +54,7 @@ This update fixed a few bugs that were reported by some of our first users.
 - Invalid time spans and intervals are now intelligently identified.
 - Answers are now formatted in scientific notation if they are too large or too small. Precision settings are still respected.
 - Added a link to the Tip Jar in the Fluxura Pro preview page.
-- [Changes to Privacy Policy](/privacypolicy)
+- [Changes to Privacy Policy](/fluxura-landing-page/privacypolicy/)
 
 #### Bug Fixes
 - Fixed a bug that caused the app to crash when time parameters were set too high.
