@@ -10,20 +10,13 @@ Here's the changelog for Fluxura. Just so you know.
 <br>
 
 ### `Latest`
-## **Version 1.3**
-This update cleaned up a few features of the app.
+## **Version 1.3.1**
+This was a smaller update than previous updates.
 
 #### What's New
-- The app now respects your selected tint in more places.
-- Links to external sites now look nicer.
-- Added an option to automatically open the keyboard when a field is selected.
-- Added a link to the web version of Fluxura's privacy policy.
-- Wording for various settings options have been changed to be clearer.
-- You can now preview Fluxura Pro features like Presets and customization options.
-- You can now submit bug reports in the app, which automatically populates email content with device information. As always, your privacy comes first, and you can choose what information you'd like to send with your report.
+- The app now supports 4th order ODEs.
 
-#### Bug Fixes
-- Fixed a bug that caused invalid time parameters to crash the app.
+That's it!
 
 <br>
 
@@ -78,5 +71,15 @@ This update cleaned up a few features of the app.
 
 #### Bug Fixes
 - Fixed a bug that caused invalid time parameters to crash the app.
+
+<br>
+
+## **Version 1.3.1**
+This was a smaller update than previous updates.
+
+#### What's New
+- The app now supports 4th order ODEs.
+
+That's it!
 
 <br>
